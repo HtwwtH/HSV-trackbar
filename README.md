@@ -5,3 +5,7 @@ trackbar.py - двигаем ползунки, находим нужные зн�
 
 main.py - затрем этот объект на ч/б варианте картинки, чтобы он не попадал в область поиска контуров.
 (в def find_object вставляем найденные значения hsv_min и hsv_max)
+
+![Trackbar](https://github.com/HtwwtH/HSV-trackbar/blob/master/demonstration/screenshot1.PNG)
+
+![Main](https://github.com/HtwwtH/HSV-trackbar/blob/master/demonstration/screenshot2.PNG)
